@@ -1,13 +1,13 @@
 # 💫 About Me:
-👨 My name is <b>Arman Singh</b>. I am a 15 y/o Seft-Taught Developer.<br>
-📚 I’m currently preparing for JEE Examination.<br>
+👨 My name is <b>Arman Singh</b>. I am a 17 y/o Seft-Taught Developer.<br>
+📚 I’m currently in MITS Gwalior.<br>
 💻 I have passion for web development and editing.<br>
-🔭 I’m currently working on My Portfolio<br>
+🔭 I’m currently working on My Portfolio!<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armansingh24&label=Profile%20views&color=47b6ff&style=flat" alt="armansingh24" /> </p>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arman.singh24) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_armansingh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@arman.singh24) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/armansinghz) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_armansingh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@arman.singh24) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
