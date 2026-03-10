@@ -5,7 +5,7 @@
 <table> <tr>
   <td width=""> <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=4000&pause=500&color=58A6FF&vCenter=true&width=500&height=120&lines=Hello+hello;I'm+Arman+Singh" /> </td> 
   <td width="">
-💻 Computer Science student  
+💻 AI & Data Science  
     <br>
 🚀 <b>Building:</b> Buzz (social media platform) • Handwriting → Text model
     <br>
