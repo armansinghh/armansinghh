@@ -5,9 +5,9 @@
 <table> <tr>
   <td width=""> <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=4000&pause=500&color=58A6FF&vCenter=true&width=500&height=120&lines=Hello+hello;I'm+Arman+Singh" /> </td> 
   <td width="">
-💻 AI & Data Science  
+💻 AI & Data Science Student 
     <br>
-🚀 <b>Building:</b> Buzz (social media platform) • Handwriting → Text model
+🚀 <b>Building:</b> Buzz (social media platform) • Handwriting to Text model
     <br>
 🧠 <b>Learning:</b> React • TypeScript • Machine Learning  
     <br>
