@@ -119,12 +119,12 @@ I enjoy:
 </tr>
 
 </table>
-<h2 align="center">📊 GitHub Stats</h2>
 
+<!-- <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=armansinghh&theme=gotham&border_radius=5"/>
-<img src="https://github-readme-stats.vercel.app/api?username=armansinghh&show_icons=true&theme=gotham&border_radius=5"/>
-</p>
+</p> -->
+
 <h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
