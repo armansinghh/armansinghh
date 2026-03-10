@@ -10,11 +10,32 @@
 🚀 <b>Building:</b> Buzz (social media platform) • Handwriting to Text model
     <br>
 🧠 <b>Learning:</b> React • TypeScript • Machine Learning  
-    <br>
-📍 India
+
+
   </td>
 </tr>
 </table>
+<h2 align="center">👨‍💻 About Me</h2>
+
+I'm an **AI & Data Science student** passionate about building real-world applications that combine **machine learning and modern web development**.
+
+Currently I focus on creating **full-stack products and AI tools**, while improving my skills in **React, TypeScript, and machine learning systems**.
+
+🎓 B.Tech – Madhav Institute of Technology & Science  
+
+I enjoy:
+- building real products instead of tutorial projects
+- designing clean UI/UX
+- exploring how AI can integrate with web apps
+<h2 align="center">🚀 Current Projects</h2>
+
+🔹 <a href="https://github.com/armansinghh/buzz-social">🔗 <b>Buzz</b> </a>  – full-stack social media platform built with React & Firebase  
+
+
+🔹 <a href="https://github.com/armansinghh/handwriting-crnn">🔗 <b>Handwriting → Text Model</b> </a>– machine learning model converting handwritten text into digital text  
+
+
+🔹 <a href="https://github.com/armansinghh/FreshStart-AI">🔗 <b>FreshStart AI</b> </a> – student helper platform for first-year students  
 
 <h2 align="center">⚙️ Techstack</h2>
 
@@ -67,7 +88,6 @@
 <td>
 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 </td>
 </tr>
@@ -81,12 +101,12 @@
 </td>
 </tr>
 
-<tr>
+<!-- <tr>
 <td><b>Data / ML</b></td>
 <td>
 <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </td>
-</tr>
+</tr> -->
 
 <tr>
 <td><b>Design</b></td>
@@ -99,3 +119,23 @@
 </tr>
 
 </table>
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=armansinghh&theme=gotham&border_radius=5"/>
+<img src="https://github-readme-stats.vercel.app/api?username=armansinghh&show_icons=true&theme=gotham&border_radius=5"/>
+</p>
+<h2 align="center">🔗 Connect With Me</h2>
+
+<p align="center">
+
+
+<a href="https://www.linkedin.com/in/armansingh24/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:armansingh6692@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
