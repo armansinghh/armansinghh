@@ -17,16 +17,18 @@
 </table>
 <h2 align="center">👨‍💻 About Me</h2>
 
-I'm an **AI & Data Science student** passionate about building real-world applications that combine **machine learning and modern web development**.
+I'm an **AI & Data Science undergraduate** passionate about building **practical, real-world software** that blends **machine learning with modern web technologies**.
 
-Currently I focus on creating **full-stack products and AI tools**, while improving my skills in **React, TypeScript, and machine learning systems**.
+I enjoy turning ideas into **working products** from designing intuitive interfaces to implementing the underlying systems that power them.
 
-🎓 B.Tech – Madhav Institute of Technology & Science  
+Currently, I’m focused on developing **full-stack applications and AI-driven tools**, while deepening my skills in **React, TypeScript, and machine learning workflows**.
 
-I enjoy:
-- building real products instead of tutorial projects
-- designing clean UI/UX
-- exploring how AI can integrate with web apps
+🎓 B.Tech – MITS Gwalior
+
+Things I enjoy working on:
+- building **real products** rather than tutorial clones
+- designing **clean, user-focused UI/UX**
+- experimenting with **AI integrated into web applications**
 <h2 align="center">🚀 Current Projects</h2>
 
 🔹 <a href="https://github.com/armansinghh/buzz-social">🔗 <b>Buzz</b> </a>  – full-stack social media platform built with React & Firebase  
