@@ -4,31 +4,27 @@
 <br>
 <table> <tr>
   <td width=""> <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=4000&pause=500&color=58A6FF&vCenter=true&width=500&height=120&lines=Hello+hello;I'm+Arman+Singh" /> </td> 
-  <td width="">
-💻 AI & Data Science Student (1st Year)
-    <br>
-🚀 <b>Building:</b> Buzz (social media platform) • Handwriting to Text model
-    <br>
-🧠 <b>Learning:</b> React • TypeScript • Machine Learning  
-
-
-  </td>
+<td width="">
+  <code>whoami</code> → AI & DS Undergrad · 1st Year · MITS Gwalior<br>
+  <code>building</code> → Buzz · Handwriting-to-Text · FreshStart AI<br>
+  <code>learning</code> → React · TypeScript · ML<br>
+  <code>mission</code> → Ship real products. Blend AI with the web.
+</td>
 </tr>
 </table>
 <h2 align="center">👨‍💻 About Me</h2>
 
-I'm an **AI & Data Science undergraduate** passionate about building **practical, real-world software** that blends **machine learning with modern web technologies**.
+I'm an **AI & Data Science undergraduate** at MITS Gwalior, passionate about building **practical software** that blends machine learning with modern web technologies.
 
-I enjoy turning ideas into **working products** from designing intuitive interfaces to implementing the underlying systems that power them.
+I enjoy the full arc of a project — from designing **clean, user-focused interfaces** to building the systems that power them. My focus right now is on **full-stack applications and AI-driven tools**, while sharpening my skills in React, TypeScript, and ML workflows.
 
-Currently, I’m focused on developing **full-stack applications and AI-driven tools**, while deepening my skills in **React, TypeScript, and machine learning workflows**.
+What I gravitate toward:
+- **Real products** over tutorial clones — things that actually get used
+- **Tight UI/UX** where every interaction feels intentional
+- **AI woven into web apps** in ways that feel natural, not gimmicky
 
-🎓 B.Tech – MITS Gwalior
+📍 Currently working toward: shipping Buzz as a real product, completing my handwriting-to-text model, and going deeper into ML pipelines & system design.
 
-Things I enjoy working on:
-- building **real products** rather than tutorial clones
-- designing **clean, user-focused UI/UX**
-- experimenting with **AI integrated into web applications**
 <h2 align="center">🚀 Current Projects</h2>
 
 🔹 <a href="https://github.com/armansinghh/buzz-social">🔗 <b>Buzz</b> </a>  – full-stack social media platform built with React & Firebase  
