@@ -3,12 +3,12 @@
 </div>
 <br>
 <table> <tr>
-  <td width=""> <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=4000&pause=500&color=58A6FF&vCenter=true&width=500&height=120&lines=Hello+hello;I'm+Arman+Singh" /> </td> 
+  <td width=""> <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=40&duration=4000&pause=500&color=58A6FF&vCenter=true&width=500&height=120&lines=Hello+hello;I'm+Arman+Singh" /> </td> 
 <td width="">
-  <code>whoami</code> → AI & DS Undergrad · 1st Year · MITS Gwalior<br>
-  <code>building</code> → Buzz · Handwriting-to-Text · FreshStart AI<br>
-  <code>learning</code> → React · TypeScript · ML<br>
-  <code>mission</code> → Ship real products. Blend AI with the web.
+  <code>whoami</code> → AI & DS 1st Year Undergrad · MITS Gwalior <br>
+  <code>building</code> → buzz-social · handwriting-crnn <br>
+  <code>learning</code> → React · TypeScript · ML <br>
+  <code>vibe</code> → builder first, student second  ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎   ‎ ‎‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  ‎  ‎‎ ‎ ‎ ‎  ‎ 
 </td>
 </tr>
 </table>
