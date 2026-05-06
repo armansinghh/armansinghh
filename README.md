@@ -33,8 +33,6 @@ What I gravitate toward:
 🔹 <a href="https://github.com/armansinghh/handwriting-crnn">🔗 <b>Handwriting → Text Model</b> </a>– machine learning model converting handwritten text into digital text  
 
 
-🔹 <a href="https://github.com/armansinghh/FreshStart-AI">🔗 <b>FreshStart AI</b> </a> – student helper platform for first-year students  
-
 <h2 align="center">⚙️ Techstack</h2>
 
 <table>
