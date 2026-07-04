@@ -5,10 +5,10 @@
 <table> <tr>
   <td width=""> <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=40&duration=4000&pause=500&color=58A6FF&vCenter=true&width=500&height=120&lines=Hello+hello;I'm+Arman+Singh" /> </td> 
 <td width="">
-  <code>whoami</code> → AI & DS 1st Year Undergrad · MITS Gwalior <br>
-  <code>building</code> → buzz-social · handwriting-crnn <br>
-  <code>learning</code> → React · TypeScript · ML <br>
-  <code>note</code> → builder first, student second  ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎   ‎ ‎‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  ‎  ‎‎ ‎ ‎ ‎  ‎ 
+  <code>whoami</code> - AI & DS 2nd yr undergrad · MITS Gwalior <br>
+  <code>building</code> - buzz-social · handwriting-crnn <br>
+  <code>learning</code> - JS · Py · ML <br>
+  <code>note</code> - builder first, student second  ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎   ‎ ‎‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  ‎  ‎‎ ‎ ‎ ‎  ‎ 
 </td>
 </tr>
 </table>
@@ -16,21 +16,19 @@
 
 I'm an **AI & Data Science undergraduate** at MITS Gwalior, passionate about building **practical software** that blends machine learning with modern web technologies.
 
-I enjoy the full arc of a project — from designing **clean, user-focused interfaces** to building the systems that power them. My focus right now is on **full-stack applications and AI-driven tools**, while sharpening my skills in React, TypeScript, and ML workflows.
+I enjoy the full arc of a project, from designing **clean, user focused interfaces** to building the systems that power them. My focus right now is on **full stack applications and AI driven tools**, while sharpening my skills in React, Python, and ML workflows.
 
 What I gravitate toward:
-- **Real products** over tutorial clones — things that actually get used
+- **Real products** over tutorial clones - things that actually get used
 - **Tight UI/UX** where every interaction feels intentional
 - **AI woven into web apps** in ways that feel natural, not gimmicky
 
-Currently working toward: shipping Buzz as a real product, completing my handwriting-to-text model, and going deeper into ML pipelines & system design.
-
 <h2 align="center">currentProjects</h2>
 
-<a href="https://github.com/armansinghh/buzz-social"> <b>Buzz</b> </a>  – full-stack social media platform built with React & Firebase  
+<a href="https://github.com/armansinghh/buzz-social"> <b>Buzz</b> </a> - full stack social media platform built with React & Firebase  
 
 
-<a href="https://github.com/armansinghh/handwriting-crnn"> <b>Handwriting → Text Model</b> </a>– machine learning model converting handwritten text into digital text  
+<a href="https://github.com/armansinghh/handwriting-crnn"> <b>Handwriting to Text Model</b> </a> - machine learning model converting handwritten text into digital text  
 
 
 <h2 align="center">techStack</h2>
