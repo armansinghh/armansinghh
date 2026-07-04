@@ -8,11 +8,11 @@
   <code>whoami</code> → AI & DS 1st Year Undergrad · MITS Gwalior <br>
   <code>building</code> → buzz-social · handwriting-crnn <br>
   <code>learning</code> → React · TypeScript · ML <br>
-  <code>vibe</code> → builder first, student second  ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎   ‎ ‎‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  ‎  ‎‎ ‎ ‎ ‎  ‎ 
+  <code>note</code> → builder first, student second  ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎   ‎ ‎‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  ‎  ‎‎ ‎ ‎ ‎  ‎ 
 </td>
 </tr>
 </table>
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">aboutMe</h2>
 
 I'm an **AI & Data Science undergraduate** at MITS Gwalior, passionate about building **practical software** that blends machine learning with modern web technologies.
 
@@ -23,17 +23,17 @@ What I gravitate toward:
 - **Tight UI/UX** where every interaction feels intentional
 - **AI woven into web apps** in ways that feel natural, not gimmicky
 
-📍 Currently working toward: shipping Buzz as a real product, completing my handwriting-to-text model, and going deeper into ML pipelines & system design.
+Currently working toward: shipping Buzz as a real product, completing my handwriting-to-text model, and going deeper into ML pipelines & system design.
 
-<h2 align="center">🚀 Current Projects</h2>
+<h2 align="center">currentProjects</h2>
 
-🔹 <a href="https://github.com/armansinghh/buzz-social">🔗 <b>Buzz</b> </a>  – full-stack social media platform built with React & Firebase  
-
-
-🔹 <a href="https://github.com/armansinghh/handwriting-crnn">🔗 <b>Handwriting → Text Model</b> </a>– machine learning model converting handwritten text into digital text  
+<a href="https://github.com/armansinghh/buzz-social"> <b>Buzz</b> </a>  – full-stack social media platform built with React & Firebase  
 
 
-<h2 align="center">⚙️ Techstack</h2>
+<a href="https://github.com/armansinghh/handwriting-crnn"> <b>Handwriting → Text Model</b> </a>– machine learning model converting handwritten text into digital text  
+
+
+<h2 align="center">techStack</h2>
 
 <table>
 
@@ -47,7 +47,6 @@ What I gravitate toward:
 <td><b>Languages</b></td>
 <td>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -107,7 +106,6 @@ What I gravitate toward:
 <tr>
 <td><b>Design</b></td>
 <td>
-<img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
@@ -121,12 +119,12 @@ What I gravitate toward:
 <img src="https://github-readme-streak-stats.herokuapp.com?user=armansinghh&theme=gotham&border_radius=5"/>
 </p> -->
 
-<h2 align="center">🔗 Connect With Me</h2>
+<h2 align="center">connectWithMe</h2>
 
 <p align="center">
 
 
-<a href="https://www.linkedin.com/in/armansingh24/">
+<a href="https://www.linkedin.com/in/armansinghh/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
