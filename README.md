@@ -6,7 +6,7 @@
   <td width=""> <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=40&duration=4000&pause=500&color=58A6FF&vCenter=true&width=500&height=120&lines=Hello+hello;I'm+Arman+Singh" /> </td> 
 <td width="">
   <code>whoami</code> - AI & DS 2nd yr undergrad · MITS Gwalior <br>
-  <code>building</code> - buzz-social · handwriting-crnn <br>
+  <code>building</code> - contexto · handwriting-crnn <br>
   <code>learning</code> - JS · Py · ML <br>
   <code>note</code> - builder first, student second  ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎  ‎ ‎ ‎  ‎   ‎ ‎‎ ‎ ‎ ‎  ‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎  ‎  ‎‎ ‎ ‎ ‎  ‎ 
 </td>
@@ -25,7 +25,7 @@ What I gravitate toward:
 
 <h2 align="center">currentProjects</h2>
 
-<a href="https://github.com/armansinghh/buzz-social"> <b>Buzz</b> </a> - full stack social media platform built with React & Firebase  
+<a href="https://github.com/armansinghh/contexto"> <b>Contexto</b> </a> - local semantic search engine for documents.
 
 
 <a href="https://github.com/armansinghh/handwriting-crnn"> <b>Handwriting to Text Model</b> </a> - machine learning model converting handwritten text into digital text  
