@@ -10,7 +10,7 @@ To know more check out [dev portfolio](https://armansingh.vercel.app) and for cr
 
 <a href="https://github.com/armansinghh/buzz-social"> <b>Buzz Social</b> </a> - scalable social platform with structured posts and clean, feature-based architecture.
 
-<a href="https://github.com/armansinghh/echoes-of-ember"> <b>Echoes of Ember</b> </a> - atmospheric 2D game built with Pygame CE.
+<a href="https://github.com/armansinghh/echoes-of-ember"> <b>Echoes of Ember</b> </a> - atmospheric 2D game built with Godot.
 
 <i>getting back to <a href="https://github.com/armansinghh/handwriting-crnn">Handwriting to Text Model</a>, <a href="https://github.com/armansinghh/contexto">Contexto - Semantic Search Engine</a>, and <a href="https://github.com/armansinghh/llm-memory-os">LLM Memory OS</a> whenever I get time</i>
 
